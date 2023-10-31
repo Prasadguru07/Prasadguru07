@@ -1,5 +1,8 @@
+[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=xNPReldH&id=BB43FF0525956AD7326824E6AB1E898E205AEB4C&thid=OIP.xNPReldHH6BM8IBavJAguAHaEY&mediaurl=https%3a%2f%2fwww.netpremacy.com%2fwp-content%2fuploads%2f2020%2f09%2fMachine-Learning-One-Pager-Graphic-Website-Banner.png&exph=1182&expw=2000&q=github+cover+banner&simid=608008662075462530&FORM=IRPRST&ck=824ACDC162657AB18E126CEF607D9A76&selectedIndex=25)
 <h1 align="center">Hi 👋, I'm GURU PRASAD</h1>
 <h3 align="center">A passionate Full stack web developer from India.</h3>
+<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=IeujlRa0&id=4634CD1456A83C4999C8623D79AEFCCC663395FB&thid=OIP.IeujlRa0FfYIdKBUmh4UowHaEH&mediaurl=https%3a%2f%2fcodeandhack.com%2fwp-content%2fuploads%2f2020%2f04%2fBest-artificial-intelligence-programming-languages.jpg&exph=500&expw=900&q=coding+artificial+intelligence+simple+example&simid=608032310134640593&FORM=IRPRST&ck=A0A23E15E983E766EEAA846EAC578DDB&selectedIndex=40>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadguru07&label=Profile%20views&color=0e75b6&style=flat" alt="prasadguru07" /> </p>
 
