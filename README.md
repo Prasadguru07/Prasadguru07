@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=OB%2fRY%2bDm&id=C44C1D9A004828F7CCED5FF213AFB12328BFE7A9&thid=OIP.OB_RY-DmcydsKAR51HyjtQHaDH&mediaurl=https%3a%2f%2fres.cloudinary.com%2fpracticaldev%2fimage%2ffetch%2fs--l6O_ZkIM--%2fc_imagga_scale%2cf_auto%2cfl_progressive%2ch_420%2cq_auto%2cw_1000%2fhttps%3a%2f%2fdev-to-uploads.s3.amazonaws.com%2fuploads%2farticles%2fyceo3xk3of14d3hbdkdp.png&exph=420&expw=1000&q=github+cover+banner&simid=607994123607160618&FORM=IRPRST&ck=FA7684DC03F62059685F3268E37BC954&selectedIndex=20&ajaxhist=0&ajaxserp=0)
+[![MasterHead](https://www.bing.com/th/id/OGC.cf8378a0ae5189cbb20661101eebe7fb?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f2708%2f1*z4N4oK5RicuyBmEQHuvn-w.gif&ehk=zAcN5AV7LdY0Jzkm6JWlH32xClVnSyywaAV5ETxazfw%3)
 <h1 align="center">Hi 👋, I'm GURU PRASAD</h1>
 <h3 align="center">A passionate Full stack web developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--l6O_ZkIM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png">
