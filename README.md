@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/2708/1*z4N4oK5RicuyBmEQHuvn-w.gif)]
+![MasterHead](https://miro.medium.com/max/2708/1*z4N4oK5RicuyBmEQHuvn-w.gif)
 <h1 align="center">Hi 👋, I'm GURU PRASAD</h1>
 <h3 align="center">A passionate Full stack web developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--l6O_ZkIM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png">
