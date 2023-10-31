@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm GURU PRASAD</h1>
 <h3 align="center">A passionate Full stack web developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--l6O_ZkIM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png">
+<br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadguru07&label=Profile%20views&color=0e75b6&style=flat" alt="prasadguru07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadguru07" alt="prasadguru07" /></a> </p>
