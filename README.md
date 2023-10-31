@@ -1,7 +1,7 @@
 [![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=OB%2fRY%2bDm&id=C44C1D9A004828F7CCED5FF213AFB12328BFE7A9&thid=OIP.OB_RY-DmcydsKAR51HyjtQHaDH&mediaurl=https%3a%2f%2fres.cloudinary.com%2fpracticaldev%2fimage%2ffetch%2fs--l6O_ZkIM--%2fc_imagga_scale%2cf_auto%2cfl_progressive%2ch_420%2cq_auto%2cw_1000%2fhttps%3a%2f%2fdev-to-uploads.s3.amazonaws.com%2fuploads%2farticles%2fyceo3xk3of14d3hbdkdp.png&exph=420&expw=1000&q=github+cover+banner&simid=607994123607160618&FORM=IRPRST&ck=FA7684DC03F62059685F3268E37BC954&selectedIndex=20&ajaxhist=0&ajaxserp=0)
 <h1 align="center">Hi 👋, I'm GURU PRASAD</h1>
 <h3 align="center">A passionate Full stack web developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=I5edONKZ&id=432748E195F55AD1878CC34DEBBA4968B5422ED7&thid=OIP.I5edONKZAmJyTmUW-lMc-wHaD4&mediaurl=https%3a%2f%2fwww.somkiat.cc%2fwp-content%2fuploads%2f2019%2f06%2fsocial.jpg&exph=630&expw=1200&q=github+cover+banner&simid=608051543028022243&FORM=IRPRST&ck=8EBA279D64DF47DE480DA65151E62140&selectedIndex=55&ajaxhist=0&ajaxserp>
+<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=I5edONKZ&id=432748E195F55AD1878CC34DEBBA4968B5422ED7&thid=OIP.I5edONKZAmJyTmUW-lMc-wHaD4&mediaurl=https%3a%2f%2fwww.somkiat.cc%2fwp-content%2fuploads%2f2019%2f06%2fsocial.jpg&exph=630&expw=1200&q=github+cover+banner&simid=608051543028022243&FORM=IRPRST&ck=8EBA279D64DF47DE480DA65151E62140&selectedIndex=55&ajaxhist=0&ajaxser">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadguru07&label=Profile%20views&color=0e75b6&style=flat" alt="prasadguru07" /> </p>
 
