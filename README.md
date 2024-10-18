@@ -1,4 +1,5 @@
 ![MasterHead](https://i.pinimg.com/736x/98/2f/3e/982f3e7088779273a1eec04f86308401.jpg)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm S GURUPRASAD</h1>
 <h3 align="center">A passionate Cyber security researcher and web developer from India</h3>
 <img align="right" alt="coding" width="600" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
