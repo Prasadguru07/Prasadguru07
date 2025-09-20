@@ -1,6 +1,7 @@
-<!-- Final Enhanced Animated README for prasadguru07 -->
+<!-- Enhanced README with Techy Header & AI Tool Icons -->
 
-![MasterHead](https://i.pinimg.com/736x/98/2f/3e/982f3e7088779273a1eec04f86308401.jpg)
+<!-- Tech-themed Header Banner -->
+![Tech Banner](https://images.unsplash.com/photo-1581093588401-36ca11d7fbd2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80)
 
 <h1 align="center">👋 Hi, I'm S Guruprasad</h1>
 <h3 align="center">Cybersecurity Researcher | Full-Stack Developer | Agentic AI Builder</h3>
@@ -19,8 +20,28 @@
 
 - 🎓 **B.E. in Information Science & Engineering** (CGPA 8.22/10)  
 - 🛡️ Focus: **Cybersecurity**, **Resilient Web Apps**, **Agentic AI**  
-- 💻 Stack: **Python, Django, React.js, Tailwind CSS, LangChain, MCP, Claude, Wrap, DeepSeek, Prisma, RAG, Vector DB**  
-- 🧰 Tools: **Nmap, Wireshark, Burp Suite, Jira, Kali Linux**  
+- 💻 Stack: **Python, Django, React.js, Tailwind CSS, LangChain, MCP, Claude, DeepSeek, Wrap, Prisma, RAG, Vector DB**  
+- 🧰 Tools: **Nmap, Wireshark, Burp Suite, Jira, Kali Linux**
+
+---
+
+### 🛠️ Tech Stack & AI Tools  
+
+<p align="center">
+
+  <!-- Core Tech Icons Row -->
+  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,ts,html,css,bootstrap,prisma,postgresql" alt="Core Stack Icons" />
+
+</p>
+
+<p align="center">
+
+  <!-- AI Tools / Agentic Icons (official sources) -->
+  <img src="https://lobehub.com/icons/mcp/combineDark.svg" width="60" alt="MCP Icon" />  
+  <img src="https://custom.typingmind.com/tools/model-icons/claude/claude.webp" width="60" alt="Claude Icon" />  
+  <img src="https://lobehub.com/icons/deepseek/combineColor.svg" width="60" alt="DeepSeek Icon" />  
+
+</p>
 
 ---
 
@@ -30,33 +51,8 @@
 |---------|------|------------|
 | **StudyBuddy – Voice-powered Agentic AI Assistant** | LangChain • Llama (qwen-3.4B) • Streamlit • gTTS • Speech Recognition • RAG | Explains DBMS/OS/CN with real-time search, code examples, quizzes, flowcharts |
 | **Auth-Nexus-Server (MCP)** | Next.js • TypeScript • Clerk • MCP • Prisma | Intelligent, secure bookmark manager with AI-powered context search |
-| **Real-Time Vulnerability Intelligence System** | Python • Scrapy • SMTP | Collected OEM vulnerability data and reported critical/high CVEs in real-time |
+| **Real-Time Vulnerability Intelligence System** | Python • Scrapy • SMTP | Collected OEM vulnerability data & reported critical/high CVEs in real-time |
 | **Phishing Detection ML Model** | Python • Scikit-learn • Pandas | Built during IISc 48-hr cyber conclave hackathon; classified phishing URLs |
-
----
-
-### 🛠️ Tech Stack  
-
-<!-- Using skillicons.dev multiple rows + animated gifs between sections -->
-
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,js,ts,html,css,bootstrap" /><br/>
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=nextjs,prisma,mysql,postgresql,mongodb,git,linux,docker,figma" /><br/>
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,tensorflow,pytorch,selenium" /><br/>
-</p>
-
-<p align="center">
-  <!-- Animated logos for your new AI tools -->
-  <img src="https://user-images.githubusercontent.com/12284291/252862003-48efbd5a-1f90-4a07-b3b4-ff81343da4ef.gif" width="60" alt="LangChain" />
-  <img src="https://github.com/AntonOsika/gpt-engineer/raw/main/docs/assets/agent.gif" width="60" alt="Agentic AI" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60" alt="Claude" />
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60" alt="Wrap / DeepSeek" />
-</p>
-
-*(Skillicons doesn’t yet have MCP/Claude/Wrap/DeepSeek icons, so above GIF placeholders give your stack a moving/animated feel.)*
 
 ---
 
@@ -73,9 +69,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadguru07&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
-
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 ---
 
