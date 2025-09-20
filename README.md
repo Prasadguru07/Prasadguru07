@@ -27,16 +27,7 @@
 <p align="center">
 
   <!-- Core Tech Icons Row -->
-  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,ts,html,css,bootstrap,prisma,postgresql" alt="Core Stack Icons" />
-
-</p>
-
-<p align="center">
-
-  <!-- AI Tools / Agentic Icons (official sources) -->
-  <img src="https://lobehub.com/icons/mcp/combineDark.svg" width="60" alt="MCP Icon" />  
-  <img src="https://custom.typingmind.com/tools/model-icons/claude/claude.webp" width="60" alt="Claude Icon" />  
-  <img src="https://lobehub.com/icons/deepseek/combineColor.svg" width="60" alt="DeepSeek Icon" />  
+  <img src="https://skillicons.dev/icons?i=python,django,react,next,tailwind,ts,html,css,bootstrap,prisma,postgresql,wireshark,selenium" alt="Core Stack Icons" />
 
 </p>
 
