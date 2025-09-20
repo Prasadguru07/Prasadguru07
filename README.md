@@ -27,7 +27,7 @@
 <p align="center">
 
   <!-- Core Tech Icons Row -->
-  <img src="https://skillicons.dev/icons?i=python,django,react,next,tailwind,ts,html,css,bootstrap,prisma,postgresql,Burp Suite,selenium,Wireshark,node.js,FastAPI" alt="Core Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,next,tailwind,ts,html,css,bootstrap,prisma,postgresql,selenium,Wireshark,node,FastAPI" alt="Core Stack Icons" />
 
 </p>
 
