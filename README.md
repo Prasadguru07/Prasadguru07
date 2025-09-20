@@ -1,9 +1,9 @@
-<!-- Enhanced Modern Animated README for prasadguru07 -->
+<!-- Final Enhanced Animated README for prasadguru07 -->
 
 ![MasterHead](https://i.pinimg.com/736x/98/2f/3e/982f3e7088779273a1eec04f86308401.jpg)
 
 <h1 align="center">👋 Hi, I'm S Guruprasad</h1>
-<h3 align="center">Cybersecurity Researcher | Full-Stack Developer | Tech Community Builder</h3>
+<h3 align="center">Cybersecurity Researcher | Full-Stack Developer | Agentic AI Builder</h3>
 
 <p align="center">
   <a href="mailto:guruprasad2903@gmail.com"><img src="https://img.shields.io/badge/Email-guruprasad2903%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,9 +17,9 @@
 
 > “Currently deepening my expertise in cybersecurity and full-stack development through hands-on projects, certifications, and community-driven workshops. Eager to collaborate with teams that value growth, innovation, and secure solutions.”
 
-- 🎓 **B.E. in Information Science & Engineering** (CGPA 8.22/10) at Sambhram Institute of Technology  
+- 🎓 **B.E. in Information Science & Engineering** (CGPA 8.22/10)  
 - 🛡️ Focus: **Cybersecurity**, **Resilient Web Apps**, **Agentic AI**  
-- 💻 Stack: **Python, Django, React.js, Tailwind CSS, LangChain, MCP, RAG, Vector DB**  
+- 💻 Stack: **Python, Django, React.js, Tailwind CSS, LangChain, MCP, Claude, Wrap, DeepSeek, Prisma, RAG, Vector DB**  
 - 🧰 Tools: **Nmap, Wireshark, Burp Suite, Jira, Kali Linux**  
 
 ---
@@ -35,28 +35,28 @@
 
 ---
 
-### 🏆 Achievements  
-
-- 🏀 **2× Interdepartmental Basketball Champion**  
-- 📊 **Led 10+ OSCODE Community workshops** boosting engagement by 40%  
-- 📝 QA tested **Hiremi App**, documenting 15+ critical/minor bugs  
-
----
-
-### 🎓 Certifications  
-
-- Google Cybersecurity Certificate  
-- Cisco Cybersecurity Essentials  
-- Cloud Computing (NPTEL)  
-- IAM Cybersecurity Simulations (Tata & Mastercard)  
-
----
-
 ### 🛠️ Tech Stack  
 
+<!-- Using skillicons.dev multiple rows + animated gifs between sections -->
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,js,ts,html,css,bootstrap,mysql,postgresql,mongodb,git,linux,aws,gcp,azure,docker,figma,langchain,pandas,selenium,tensorflow" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,js,ts,html,css,bootstrap" /><br/>
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=nextjs,prisma,mysql,postgresql,mongodb,git,linux,docker,figma" /><br/>
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,tensorflow,pytorch,selenium" /><br/>
 </p>
+
+<p align="center">
+  <!-- Animated logos for your new AI tools -->
+  <img src="https://user-images.githubusercontent.com/12284291/252862003-48efbd5a-1f90-4a07-b3b4-ff81343da4ef.gif" width="60" alt="LangChain" />
+  <img src="https://github.com/AntonOsika/gpt-engineer/raw/main/docs/assets/agent.gif" width="60" alt="Agentic AI" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60" alt="Claude" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60" alt="Wrap / DeepSeek" />
+</p>
+
+*(Skillicons doesn’t yet have MCP/Claude/Wrap/DeepSeek icons, so above GIF placeholders give your stack a moving/animated feel.)*
 
 ---
 
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadguru07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadguru07&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
 
 <!-- Animated Wave Footer -->
