@@ -1,10 +1,7 @@
 <!-- Enhanced README with Techy Header & AI Tool Icons -->
 
-<!-- Tech-themed Header Banner -->
-![Tech Banner](https://images.unsplash.com/photo-1581093588401-36ca11d7fbd2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80)
-
 <h1 align="center">👋 Hi, I'm S Guruprasad</h1>
-<h3 align="center">Cybersecurity Researcher | Full-Stack Developer | Agentic AI Builder</h3>
+<h3 align="center">Cybersecurity Researcher | Full-Stack Developer | Building AI Agents </h3>
 
 <p align="center">
   <a href="mailto:guruprasad2903@gmail.com"><img src="https://img.shields.io/badge/Email-guruprasad2903%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -16,11 +13,11 @@
 
 ### 🌌 About Me  
 
-> “Currently deepening my expertise in cybersecurity and full-stack development through hands-on projects, certifications, and community-driven workshops. Eager to collaborate with teams that value growth, innovation, and secure solutions.”
+> “Currently deepening my expertise in AI Agents and full-stack development through hands-on projects, certifications, and community-driven workshops. Eager to collaborate with teams that value growth, innovation, and secure solutions.”
 
 - 🎓 **B.E. in Information Science & Engineering** (CGPA 8.22/10)  
 - 🛡️ Focus: **Cybersecurity**, **Resilient Web Apps**, **Agentic AI**  
-- 💻 Stack: **Python, Django, React.js, Tailwind CSS, LangChain, MCP, Claude, DeepSeek, Wrap, Prisma, RAG, Vector DB**  
+- 💻 Stack: **Python, Django, React.js, Next.js, Tailwind CSS, LangChain, MCP, Claude, Prisma, RAG, Vector DB**  
 - 🧰 Tools: **Nmap, Wireshark, Burp Suite, Jira, Kali Linux**
 
 ---
