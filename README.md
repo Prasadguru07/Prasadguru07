@@ -1,36 +1,95 @@
+<!-- Modern README for prasadguru07 -->
+
 ![MasterHead](https://i.pinimg.com/736x/98/2f/3e/982f3e7088779273a1eec04f86308401.jpg)
-<h1 align="center">Hi 👋, I'm S GURUPRASAD</h1>
-<h3 align="center">A passionate Cyber security researcher and web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadguru07&label=Profile%20views&color=0e75b6&style=flat" alt="prasadguru07" /> </p>
+<h1 align="center">Hi 👋, I'm S Guruprasad</h1>
+<h3 align="center">Cybersecurity Researcher | Full-Stack Developer | Tech Community Builder</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadguru07" alt="prasadguru07" /></a> </p>
-
-- 🌱 I’m currently learning **Cybersecurity, DSA, Development**
-
-- 👨‍💻 All of my projects are available at [http://www.linkedin.com/in/guruprasad2903](http://www.linkedin.com/in/guruprasad2903)
-
-- 📝 I regularly write articles on [Cybersecurity, Poster designing, UI/UX](Cybersecurity, Poster designing, UI/UX)
-
-- 💬 Ask me about **Defensive cybersecurity, DSA, Kali Linux, Development, FIGMA**
-
-- 📫 How to reach me **guruprasad2903@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pOOIuHiIoAa0JKFvsGJ2ZqqT6JQWF2gL/view?usp=drivesdk](https://drive.google.com/file/d/1pOOIuHiIoAa0JKFvsGJ2ZqqT6JQWF2gL/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/guruprasad2903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/guruprasad2903" height="30" width="40" /></a>
-<a href="https://instagram.com/guruprasad2903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guruprasad2903" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/guruprasad2903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="guruprasad2903" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:guruprasad2903@gmail.com">
+    <img src="https://img.shields.io/badge/Email-guruprasad2903%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/guruprasad2903">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/prasadguru07">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/guruprasad2903">
+    <img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadguru07&show_icons=true&locale=en&layout=compact" alt="prasadguru07" /></p>
+### 🌟 About Me  
+> “Currently deepening my expertise in cybersecurity and full-stack development through hands-on projects, certifications, and community-driven workshops. Eager to collaborate with teams that value growth, innovation, and secure solutions.”
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasadguru07&show_icons=true&locale=en" alt="prasadguru07" /></p>
+- 🎓 Information Science graduate blending secure software development with a passion for leadership & collaboration  
+- 🛡️ Specializing in **vulnerability assessment, network defense, phishing detection, SIEM**  
+- 💻 Skilled in **Python, Django, React.js, REST APIs, Tailwind CSS, LangChain, Agentic AI, RAG, Vector DB**  
+- 🧰 Tools: **Nmap, Wireshark, Burp Suite, Kali Linux, Jira**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadguru07&" alt="prasadguru07" /></p>
+---
+
+### 🏆 Highlights & Achievements  
+
+- 🏀 **2× Interdepartmental Basketball Champion**  
+- 📊 Led **5+ technical workshops at OSCODE Community** boosting engagement by 40%  
+- 🔐 Built **real-time vulnerability intelligence system** (Python) & **phishing detection ML model** at IISc Cyber Conclave (48-hr hackathon)  
+- 🎙️ Developed **StudyBuddy** – a voice-enabled AI assistant using LangChain, Ollama (qwen-3.4B), Streamlit, gTTS, and Speech Recognition for DBMS/OS/CN/SQL with real-time search, code examples, quizzes & flowcharts  
+- 📝 QA tested **Hiremi App**, documenting 8+ critical & high-level bugs  
+
+---
+
+### 🎓 Certifications  
+
+- Google Cybersecurity Certificate  
+- Cisco Cybersecurity Essentials  
+- Cloud Computing (NPTEL)  
+
+---
+
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,js,html,css,bootstrap,mysql,postgresql,mongodb,git,linux,aws,gcp,azure,docker,figma,npm,pandas,selenium,tensorflow" />
+</p>
+
+---
+
+### 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasadguru07&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prasadguru07&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadguru07&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Let’s Connect  
+
+I’m currently seeking **AI/ML or software development** roles.  
+Let’s discuss how my technical skills and team-driven mindset can contribute to your organization.
+
+<p align="center">
+  <a href="mailto:guruprasad2903@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/guruprasad2903">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasadguru07&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
