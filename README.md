@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Develo;AI+Engineer;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="250"/>
 
@@ -77,7 +77,6 @@ current_focus:
 ### **AI Automation and cloud**
 <div align="center">
 
-![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://skillicons.dev/icons?i=linux)
@@ -110,8 +109,7 @@ current_focus:
 
 </div>
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavyabhut&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prasadguru07&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 </div>
 
