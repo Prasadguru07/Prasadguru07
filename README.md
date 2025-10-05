@@ -19,7 +19,7 @@
 ```yaml
 current_focus:
   - role: "AI Engineer"
-  - learning: ["AI Auotmation", "Kubernetes", "MCP"]
+  - learning: ["AI Automation", "Kubernetes", "MCP"]
   - building: "Scalable web applications and AI Agents"
   - exploring: "MCP and Automation tools"
 ```
