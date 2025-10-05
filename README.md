@@ -77,6 +77,9 @@ current_focus:
 ### **AI Automation and cloud**
 <div align="center">
 
+![OpenAI](https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg)
+![Claude](https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg)
+![Ollama](https://lobehub.com/icons/ollama)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://skillicons.dev/icons?i=linux)
