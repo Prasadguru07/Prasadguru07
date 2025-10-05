@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="250"/>
 
-**`🚀 AI engineer and `**
+**`🚀 AI Engineer | Full Stack Web Developer`**
 
 *Building scalable solutions with modern technologies enabled with AI*
 
@@ -27,8 +27,8 @@ current_focus:
 ## 🙋‍♂️ About Me
 
 - 🔭 **Currently working on:** Improving my AI skills and building AI Agent workflows
-- 👯 **Looking to collaborate on:** Full stack projects and open source contributions  
-- 🌱 **Currently learning:** Automation, Kubernetes, MCP protocols.
+- 👯 **Looking to collaborate on:** AI/Full stack projects and open source contributions  
+- 🌱 **Currently learning:** AI Automation, Kubernetes, MCP protocols.
 
 ---
 
@@ -77,9 +77,7 @@ current_focus:
 ### **AI Automation and cloud**
 <div align="center">
 
-![MCP](https://raw.githubusercontent.com/openai/openai-cookbook/main/images/mcp-logo.png)
-![n8n](https://cdn.worldvectorlogo.com/logos/n8n.svg)
-![LangChain](https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png)
+![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://skillicons.dev/icons?i=linux)
@@ -106,37 +104,26 @@ current_focus:
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyabhut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFF&ring_color=FF6B6B"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasadguru07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFF&ring_color=FF6B6B"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyabhut&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadguru07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF"/>
 
 </div>
 
-<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavyabhut&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=bhavyabhut&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavyabhut&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prasadguru07&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)
 
 </div>
+
 
 ---
 
@@ -144,29 +131,12 @@ current_focus:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-bhut)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bhutbhavya)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bhavya.bhut)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://allblogs.in/author/bhavya-bhut)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruprasad2903/)
 
 </div>
 
 ---
 
-
-
----
-
-## 🎯 2025 Goals
-
-- [ ] Master Kubernetes and container orchestration
-- [ ] Contribute to 5+ open source projects
-- [ ] Build a complete microservices architecture
-- [ ] Learn AI/ML fundamentals and integrate with web apps
-- [ ] Achieve AWS Solutions Architect certification
-- [ ] Mentor junior developers and share knowledge
-
----
 
 ## 💡 Random Dev Quote
 
